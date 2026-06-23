@@ -8,7 +8,18 @@ Given a stock ticker, the system searches authoritative financial sources in rea
 
 ## Demo
 
-> *Add a screenshot or short GIF of the running prototype here. Recommended: a screenshot of a completed NVDA or AAPL report showing the metric cards with percentile bars, SWOT grid, and BCG matrix.*
+<img width="1392" height="1424" alt="image" src="https://github.com/user-attachments/assets/a2ccb00f-1291-4679-b69a-9e8b88d72eac" />
+<img width="1382" height="1568" alt="image" src="https://github.com/user-attachments/assets/83f406ae-8c26-48eb-8158-0dbfac36d511" />
+<img width="1372" height="1490" alt="image" src="https://github.com/user-attachments/assets/c61c7622-5427-4ac2-8022-6805c41419f4" />
+<img width="1378" height="1566" alt="image" src="https://github.com/user-attachments/assets/b1321678-4200-49a3-a1f1-704654da6e90" />
+<img width="1364" height="1478" alt="image" src="https://github.com/user-attachments/assets/7ba5ffa0-51b6-4098-86a1-44978abf2860" />
+<img width="1366" height="778" alt="image" src="https://github.com/user-attachments/assets/ee0bf9bf-4484-49a6-8328-e0caedd684f8" />
+
+
+
+
+
+
 
 ---
 
